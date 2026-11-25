@@ -16,7 +16,9 @@ The agent may only use external API details written here or in SPEC.
 
 ## lifecycle-email-builder
 - Node available for MJML (yes/no): yes (v26.12.1)
-- Loops export: SKIP, or paste official import format docs:
-- Customer.io export: SKIP, or paste official import format docs:
+- Loops export: SKIP (only generic.json)
+- Customer.io export: SKIP (only generic.json)
 - Two example product URLs for the demo:
-- Brand defaults for `brand.yaml` (primary color hex, font) or "neutral":
+  - https://attio.com
+  - https://cal.com
+- Brand defaults for `brand.yaml` (primary color hex, font) or "neutral": neutral (default grayscale)
